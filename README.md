@@ -100,7 +100,7 @@ A modern parcel management web app frontend built with **React 19**, **Tailwind 
 ### 📥 Installation (Frontend)
 
 ```bash
-git clone https://github.com/Tajuddin80/Parcel-Point
+git clone https://github.com/rashed-miah/Parcel-Point
 cd parcel-point
 npm install
 
@@ -153,5 +153,5 @@ TanStack
 Tailwind CSS
 MongoDB
 
-Developed by: Taj Uddin
-Repository: https://github.com/Tajuddin80/Parcel-Point
+Developed by: Md. Rashed Miah
+Repository: https://github.com/rashed-miah/Parcel-Point
