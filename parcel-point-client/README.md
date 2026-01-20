@@ -56,7 +56,7 @@ This frontend communicates with a backend API for managing parcels, payments, ri
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/Tajuddin80/Parcel-Point
+git clone https:(https://github.com/rashed-miah)
 cd parcel-point
 npm install
 
