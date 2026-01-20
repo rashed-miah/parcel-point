@@ -85,6 +85,5 @@ Firebase
 TanStack
 Tailwind CSS
 
-Developed by: Taj Uddin
 Repository: Parcel Point Frontend
 
