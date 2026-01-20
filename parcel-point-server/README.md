@@ -48,7 +48,7 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Firebase Admin**.
 Clone the backend repository and install dependencies:
 
 ```bash
-git clone https://github.com/Tajuddin80/Parcel-Point
+git clone https:[https://github.com/rashed-miah/parcel-point]
 cd parcel-point-server
 npm install
 
